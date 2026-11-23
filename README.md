@@ -4,6 +4,11 @@
 - 학번: 202628030
 - 실험: MNIST 이미지의 PCA, Autoencoder(AE), Variational Autoencoder(VAE) 차원 축소·복원 성능 비교
 - 보고서: 별도 제출한 `Midterm Project_202628030_정선우.pdf` (12페이지)
+- GitHub 저장소: https://github.com/JUNGSUNWOO/-.git
+
+**소스코드 열람 및 실험 재현:** [GitHub 프로젝트 저장소](https://github.com/JUNGSUNWOO/AI504C.git)
+
+LMS에서 PDF 형식만 제출할 수 있어, Python 소스코드 및 실험 재현 자료는 위 GitHub 저장소를 통해 제공합니다. 저장소에는 아래의 코드와 README, 체크포인트 및 결과 파일이 포함되어야 합니다. GitHub 링크의 실제 접근 가능 여부는 제출 전에 확인해 주세요.
 
 ## 1. 제출 파일 구성
 
