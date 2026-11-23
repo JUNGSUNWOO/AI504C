@@ -1,0 +1,4 @@
+﻿model,latent_dim,test_images,mean_squared_L2_per_image,evaluation
+PCA,2,10000,45.21132734,deterministic reconstruction
+AE,2,10000,34.96666875,deterministic reconstruction
+VAE_mu,2,10000,34.75306074,"VAE: decoder(mu), no sampling"
